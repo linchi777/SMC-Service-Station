@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="110px" height="110px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip5432">
+    <mask fill="white" id="clip5594">
       <path d="M 89 136  C 58.475 136  34 111.525  34 81  L 34 81  C 34 50.475  58.475 26  89 26  L 89 26  C 119.525 26  144 50.475  144 81  L 144 81  C 144 111.525  119.525 136  89 136  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -34 -26 )">
-    <path d="M 34 26  L 144 26  L 144 136  L 34 136  L 34 26  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip5432)" />
-    <path d="M 42 34  L 136 34  L 136 128  L 42 128  L 42 34  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip5432)" />
-    <path d="M 99.45 59  C 94.83 59  91.2 55.37  91.2 50.75  C 91.2 46.13  94.83 42.5  99.45 42.5  C 104.07000000000001 42.5  107.7 46.13  107.7 50.75  C 107.7 55.37  104.07000000000001 59  99.45 59  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip5432)" />
-    <path d="M 45 125  L 45 76.6  L 67 54.599999999999994  L 97.8 72.2  L 115.4 67.8  L 133 72.2  L 133 125  L 45 125  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip5432)" />
+    <path d="M 34 26  L 144 26  L 144 136  L 34 136  L 34 26  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip5594)" />
+    <path d="M 42 34  L 136 34  L 136 128  L 42 128  L 42 34  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip5594)" />
+    <path d="M 99.45 59  C 94.83 59  91.2 55.37  91.2 50.75  C 91.2 46.13  94.83 42.5  99.45 42.5  C 104.07000000000001 42.5  107.7 46.13  107.7 50.75  C 107.7 55.37  104.07000000000001 59  99.45 59  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip5594)" />
+    <path d="M 45 125  L 45 76.6  L 67 54.599999999999994  L 97.8 72.2  L 115.4 67.8  L 133 72.2  L 133 125  L 45 125  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip5594)" />
   </g>
 </svg>
